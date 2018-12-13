@@ -1,6 +1,6 @@
 # My First Bootstrap Website
 
-This website is a three page webiste.
+This is a three page basic Bootstrap webiste.
 
 ## Code Languages
 
